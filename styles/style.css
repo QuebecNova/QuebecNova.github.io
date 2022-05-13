@@ -5,10 +5,12 @@ html {
     text-align: center;
 }
 body {
-    background-color: black;
-    color:aliceblue;
+    background-color: rgb(163, 163, 163);
+    background-color: rgb(255, 255, 231);
     background-image: url(../images/stars.png);
+    background-blend-mode: multiply;
     background-size: contain;
+    color:aliceblue;
 }
 html, body {
     min-height: 100vh;
