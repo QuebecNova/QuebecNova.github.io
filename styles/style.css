@@ -1,3 +1,4 @@
+/* general setup */
 * {
     box-sizing: border-box;
   }
@@ -9,7 +10,7 @@
   body {
     padding: 0 0 1em;
   }
-
+  /* top bar */
   header {
     background-color: #333;
     color: #fff;
@@ -59,7 +60,7 @@
     padding: 1em;
     text-align:center;
   }
-
+  /* middle part */
   main {
     padding: 0 1em;
   }
